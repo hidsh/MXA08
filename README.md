@@ -215,8 +215,8 @@ USB-DACが認識しないときに変更すると解決できるかもしれま�
 
 |品名|ファイル|
 |---|---|
-|top|[case-top](3dp/mxa08-top-v53.step)|
-|bottom|[case-bottom](3dp/mxa08-bottom-v53.step)|
+|case-top|[step](3dp/mxa08-top-v53.step)|
+|case-bottom|[step](3dp/mxa08-bottom-v53.step)|
 
 注意：オプションの[電源用コンデンサ](#電源用コンデンサ)をつけるとこのケースに入らなくなります。
 
