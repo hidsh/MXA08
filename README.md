@@ -2,7 +2,7 @@
 
 PCの音量もやっぱりMXスイッチで変えたいので、小さいオーディオアンプを作りました。
 
-ニアフィールド向けの[アマゾンで売ってるスピーカーキット](www.amazon.co.jp/dp/B0B5Z3N3S1)や[お一人様こたつ用タワースピーカー](https://github.com/hidsh/kotats-side-speaker)などのパッシブスピーカーに最適です。
+ニアフィールド向けの[アマゾンで売ってるスピーカーキット](https://www.amazon.co.jp/dp/B0B5Z3N3S1)や[お一人様こたつ用タワースピーカー](https://github.com/hidsh/kotats-side-speaker)などのパッシブスピーカーに最適です。
 
 ## 特徴
 
@@ -34,7 +34,7 @@ PCの音量もやっぱりMXスイッチで変えたいので、小さいオー�
 |名称|数量|例 / 参考|
 |---|---|---|
 |Type-Cイヤホン変換ケーブル|1|[Type-Cイヤホン変換ケーブルはどれでも使えるのか？](#Type-Cイヤホン変換ケーブルはどれでも使えるのか？)|
-|Type-Cケーブル|1|[USBケーブル 5m カメラ接続用L字USBケーブル ケーブル USB 3.2 Gen1 Type C 充電データ転送コード USB Type C ケーブル 5Gbps/3A PD対応 USB-C to USB-C 長い 高耐久ナイロン 充電コード タイプc グレー](www.amazon.co.jp/dp/B08NP2YN7N) など|
+|Type-Cケーブル|1|[USBケーブル 5m カメラ接続用L字USBケーブル ケーブル USB 3.2 Gen1 Type C 充電データ転送コード USB Type C ケーブル 5Gbps/3A PD対応 USB-C to USB-C 長い 高耐久ナイロン 充電コード タイプc グレー](https://www.amazon.co.jp/dp/B08NP2YN7N) など|
 |スピーカー|2|[スピーカーは何ワットくらい？](#スピーカーは何ワットくらい？)|
 |スピーカーケーブル|適宜|AWG26～18 ([ＶＦＦ／スピーカーコード　０．３ｓｑ　５ｍ　赤黒](https://akizukidenshi.com/catalog/g/gP-06757/) など)|
 |MX互換キースイッチ|2|[Gateron Jupiter Switch Banana](https://shop.yushakobo.jp/products/8299?variant=48218925269223) など|
@@ -46,7 +46,7 @@ PCの音量もやっぱりMXスイッチで変えたいので、小さいオー�
 |---|---|---|
 |精密ドライバー(+)|ケースのネジ止め|百均で売っているセットのNo.1など|
 |精密ドライバー(ｰ)|端子台へのスピーカー結線|百均で売っているセットの軸径1.6mmなど|
-|ケーブルストリッパー|スピーカー線の被覆剥き|[フジ矢(Fujiya) ワイヤーストリッパ B 型 PP323B-165](www.amazon.co.jp/dp/B0193A1S08) など|
+|ケーブルストリッパー|スピーカー線の被覆剥き|[フジ矢(Fujiya) ワイヤーストリッパ B 型 PP323B-165](https://www.amazon.co.jp/dp/B0193A1S08) など|
 
 
 ## 組み立て
@@ -225,7 +225,7 @@ USB-DACが認識しないときに変更すると解決できるかもしれま�
 参考までに現在私が使っているものを紹介します。
 |商品名|使える？|Device<br>Manager|USBDeview|感想|購入日|
 |---|---|---|---|---|---|
-|[JINGHUAType-cto3.5mm イヤホンジャックアダプタ、USB-C&3.5mm オーディオアダプタ、柔軟性と広互換性があり、Macbook Air/iPad Pro/Andriod などの Type-C インタフェースを持つスマートデバイスと互換性があります。](www.amazon.co.jp/dp/B09MJDGRTZ)|○|![JINGHUA-devm](img/dac-JINGHUA-devm.png)|![JINGHUA-usbd](img/dac-JINGHUA-usbd.png)|アマゾンで買いましたが、届いたものはロゴなしでした。<br><br>商品写真には「CXチップ搭載」とか「384kHz 32bit」とか書かれていますが、USBDeviewでVIDを見ると、CXチップではなくKTMicro製で、製品ラインナップからおそらく96kHz/24bit/USB2です。<br>なので、かなり詐欺まがいな商品ですが一応ハイレゾですし、マザボのヘッドホン端子よりもキレのある音がするのでよしとしています。|2023/11/3|
+|[JINGHUAType-cto3.5mm イヤホンジャックアダプタ、USB-C&3.5mm オーディオアダプタ、柔軟性と広互換性があり、Macbook Air/iPad Pro/Andriod などの Type-C インタフェースを持つスマートデバイスと互換性があります。](https://www.amazon.co.jp/dp/B09MJDGRTZ)|○|![JINGHUA-devm](img/dac-JINGHUA-devm.png)|![JINGHUA-usbd](img/dac-JINGHUA-usbd.png)|アマゾンで買いましたが、届いたものはロゴなしでした。<br><br>商品写真には「CXチップ搭載」とか「384kHz 32bit」とか書かれていますが、USBDeviewでVIDを見ると、CXチップではなくKTMicro製で、製品ラインナップからおそらく96kHz/24bit/USB2です。<br>なので、かなり詐欺まがいな商品ですが一応ハイレゾですし、マザボのヘッドホン端子よりもキレのある音がするのでよしとしています。|2023/11/3|
 |[ＵＳＢ　ＴＹＰＥ－Ｃ変換ケーブル](https://jp.daisonet.com/products/4550480348803)|△|![](img/dac-daiso330-devm.png)|![](img/dac-daiso330-usbd.png)|ダイソーで330円で売ってるものです。<br><br>商品名には「イヤホン」とか入ってないですが、Type-Cイヤホン変換ケーブルです。USBDeviewのVIDとPIDから「AB13X USB 2.0 Heedset Adapter」とわかります。音がでかくてドンシャリです。一応音は出ますが、Type-Cコネクタ部分が熱くなるのでおすすめできません。|2023/12/30|
 
 この類の製品は商品説明が不正確なものがあったり、購入日によって別の品種が届いたりといったカオス状態ですが、その玉石混淆の中から神変換ケーブルを探り当てるのもチープオーディオの醍醐味かもしれません。
