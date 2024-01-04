@@ -25,9 +25,9 @@ PCの音量もやっぱりMXスイッチで変えたいので、小さいオー�
 |画像|名称|数量|
 |---|---|---|
 |![pcb](img/part-pcb.png)|基板（部品実装済みです）|1|
-|![screw](img/part-screw.jpg)|M2 8mm なべ小ねじ|4|
 |![case-top](img/part-case-top.png)|ケース（上）|1|
 |![case-bottom](img/part-case-bottom.png)|ケース（下）|1|
+|![screw](img/part-screw.jpg)|M2 8mm なべ小ねじ|4|
 
 ケースは3Dプリント品（PLA）です。
 
