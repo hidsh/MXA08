@@ -2,7 +2,7 @@
 
 PCの音量もやっぱりMXスイッチで変えたいので、小さいオーディオアンプを作りました。
 
-ニアフィールド向けの[アマゾンで売ってるスピーカーキット](https://www.amazon.co.jp/dp/B0B5Z3N3S1)や[こたつサイドなタワースピーカー](https://github.com/hidsh/kotats-side-speaker)などのパッシブスピーカーに最適です。
+[アマゾンで売ってるスピーカーキット](https://www.amazon.co.jp/dp/B0B5Z3N3S1)や[こたつサイドなタワースピーカー](https://github.com/hidsh/kotats-side-speaker)など、ニアフィールド向けのパッシブスピーカーに最適です。
 
 ## 特徴
 
