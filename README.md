@@ -269,3 +269,6 @@ Cherry MX互換メカニカルキースイッチならOKです。スイッチの
 
 これもCherry MX互換の十字穴ならOKです。
 DSAプロファイルを基準に設計していますが、SAでも使えたのでメジャーなプロファイルなら付けられると思います。
+
+## link
+- [こたつサイドなタワースピーカー](https://github.com/hidsh/kotats-side-speaker)
