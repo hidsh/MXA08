@@ -37,7 +37,7 @@ PCの音量もやっぱりMXスイッチで変えたいので、小さいオー�
 |---|---|---|
 |Type-Cイヤホン変換ケーブル|1|[FAQ: Type-Cイヤホン変換ケーブルはどれでも使えるのか？](#Type-C変換ケーブルはどれでも使えるのか？)|
 |Type-Cケーブル|1|[USBケーブル 5m カメラ接続用L字USBケーブル ケーブル USB 3.2 Gen1 Type C 充電データ転送コード USB Type C ケーブル 5Gbps/3A PD対応 USB-C to USB-C 長い 高耐久ナイロン 充電コード タイプc グレー](https://www.amazon.co.jp/dp/B08NP2YN7N) など|
-|スピーカー|2|[スピーカーは何ワットくらい？](#スピーカーは何ワットくらい？)|
+|スピーカー|2|[FAQ: スピーカーは何ワットくらい？](#スピーカーは何ワットくらい？)|
 |スピーカーケーブル|適宜|AWG26～18 ([ＶＦＦ／スピーカーコード　０．３ｓｑ　５ｍ　赤黒](https://akizukidenshi.com/catalog/g/gP-06757/) など)|
 |MX互換キースイッチ|2|[Gateron Jupiter Switch Banana](https://shop.yushakobo.jp/products/8299?variant=48218925269223) など|
 |MX互換キーキャップ|2|[DSA PBT ブランク キーキャップ (ブラック/2個)](https://talpkeyboard.net/items/59cce9eb428f2d1e990002ed) など|
