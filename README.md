@@ -201,7 +201,7 @@ USB-DACが認識しないときに変更すると解決できるかもしれま�
 
 ## 回路図
 
-![schematic](pcb/mx08-sch.pdf)
+![schematic](pcb/mxa08_amp_8408_tiny.svg)
 
 ## ケース
 
