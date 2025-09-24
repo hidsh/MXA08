@@ -36,7 +36,7 @@ PCの音量もやっぱりMXスイッチで変えたいので、小さいオー�
 
 |名称|数量|例 / 参考|
 |---|---|---|
-|Type-Cイヤホン変換ケーブル|1|[FAQ: Type-Cイヤホン変換ケーブルはどれでも使えるのか？](#Type-C変換ケーブルはどれでも使えるのか？)|
+|Type-Cイヤホン変換ケーブル|1|[FAQ: Type-Cイヤホン変換ケーブルはどれでも使えるのか？](https://github.com/hidsh/MXA08?tab=readme-ov-file#type-c%E5%A4%89%E6%8F%9B%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%A7%E3%82%82%E4%BD%BF%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B)|
 |Type-Cケーブル|1|[USBケーブル 5m カメラ接続用L字USBケーブル ケーブル USB 3.2 Gen1 Type C 充電データ転送コード USB Type C ケーブル 5Gbps/3A PD対応 USB-C to USB-C 長い 高耐久ナイロン 充電コード タイプc グレー](https://www.amazon.co.jp/dp/B08NP2YN7N) など|
 |スピーカー|2|[FAQ: スピーカーは何ワットくらい？](#スピーカーは何ワットくらい？)|
 |スピーカーケーブル|適宜|AWG26～18 ([ＶＦＦ／スピーカーコード　０．３ｓｑ　５ｍ　赤黒](https://akizukidenshi.com/catalog/g/gP-06757/) など)|
